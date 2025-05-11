@@ -1,0 +1,44 @@
+#wrapper {
+    display : flex;
+    flex-flow:column  wrap;
+    background-color: wheat;
+    border-radius : 5px;
+  }
+  .schooladdress {
+    background-color : red;
+    
+  }
+  .item1  {
+    background-color : red;
+    
+  }
+  .item7  {
+    background-color : red;
+    
+  }
+  .studentphoto {
+    text-align: center;
+  }
+  
+  .studentdetails {
+    display : inline-grid;
+    grid-template-columns: auto auto;
+  
+  }
+  
+  #logo {
+    display : inline-grid;
+    grid-template-columns: auto auto;
+    align-items : center;
+    justify-content : center;
+    text-align: center;
+    
+  
+  }
+  #temp {
+    font-size :30px;
+  }
+  .signature{
+    padding :20px;
+    text-align : right;
+  }
