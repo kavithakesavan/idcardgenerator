@@ -1,4 +1,4 @@
-import './style.css';
+import './id.scss';
 import orchidlogo from'./orchidlogo.jpg';
 import studentphoto from'./studentphoto.jpg';
 
