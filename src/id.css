@@ -1,0 +1,58 @@
+#wrapper {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-orient: vertical;
+  -webkit-box-direction: normal;
+      -ms-flex-flow: column  wrap;
+          flex-flow: column  wrap;
+  background-color: wheat;
+  border-radius: 6px;
+}
+
+.schooladdress {
+  background-color: red;
+}
+
+.item1 {
+  background-color: red;
+}
+
+.item7 {
+  background-color: red;
+}
+
+.studentphoto {
+  text-align: center;
+}
+
+.studentdetails {
+  display: -ms-inline-grid;
+  display: inline-grid;
+  -ms-grid-columns: auto auto;
+      grid-template-columns: auto auto;
+}
+
+#logo {
+  display: -ms-inline-grid;
+  display: inline-grid;
+  -ms-grid-columns: auto auto;
+      grid-template-columns: auto auto;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+  -webkit-box-pack: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+  text-align: center;
+}
+
+#temp {
+  font-size: 30px;
+}
+
+.signature {
+  padding: 20px;
+  text-align: right;
+}
+/*# sourceMappingURL=id.css.map */
