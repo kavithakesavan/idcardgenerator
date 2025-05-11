@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/kavithakesavan/idcardgenerator/static/css/main.96c3b1d2.css",
+    "main.js": "/kavithakesavan/idcardgenerator/static/js/main.739d007d.js",
+    "static/js/453.76205513.chunk.js": "/kavithakesavan/idcardgenerator/static/js/453.76205513.chunk.js",
+    "index.html": "/kavithakesavan/idcardgenerator/index.html",
+    "main.96c3b1d2.css.map": "/kavithakesavan/idcardgenerator/static/css/main.96c3b1d2.css.map",
+    "main.739d007d.js.map": "/kavithakesavan/idcardgenerator/static/js/main.739d007d.js.map",
+    "453.76205513.chunk.js.map": "/kavithakesavan/idcardgenerator/static/js/453.76205513.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.96c3b1d2.css",
+    "static/js/main.739d007d.js"
+  ]
+}
