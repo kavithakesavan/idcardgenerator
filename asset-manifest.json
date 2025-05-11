@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/kavithakesavan/idcardgenerator/static/css/main.96c3b1d2.css",
-    "main.js": "/kavithakesavan/idcardgenerator/static/js/main.0786642b.js",
-    "static/js/453.76205513.chunk.js": "/kavithakesavan/idcardgenerator/static/js/453.76205513.chunk.js",
-    "index.html": "/kavithakesavan/idcardgenerator/index.html",
-    "main.96c3b1d2.css.map": "/kavithakesavan/idcardgenerator/static/css/main.96c3b1d2.css.map",
-    "main.0786642b.js.map": "/kavithakesavan/idcardgenerator/static/js/main.0786642b.js.map",
-    "453.76205513.chunk.js.map": "/kavithakesavan/idcardgenerator/static/js/453.76205513.chunk.js.map"
+    "main.css": "/idcardgenerator/static/css/main.96c3b1d2.css",
+    "main.js": "/idcardgenerator/static/js/main.87439a13.js",
+    "static/js/453.76205513.chunk.js": "/idcardgenerator/static/js/453.76205513.chunk.js",
+    "index.html": "/idcardgenerator/index.html",
+    "main.96c3b1d2.css.map": "/idcardgenerator/static/css/main.96c3b1d2.css.map",
+    "main.87439a13.js.map": "/idcardgenerator/static/js/main.87439a13.js.map",
+    "453.76205513.chunk.js.map": "/idcardgenerator/static/js/453.76205513.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.96c3b1d2.css",
-    "static/js/main.0786642b.js"
+    "static/js/main.87439a13.js"
   ]
 }
