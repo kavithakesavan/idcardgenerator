@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/idcardgenerator/static/css/main.10ffa129.css",
+    "main.css": "/idcardgenerator/static/css/main.d8012067.css",
     "main.js": "/idcardgenerator/static/js/main.f94fe0c7.js",
     "static/js/453.76205513.chunk.js": "/idcardgenerator/static/js/453.76205513.chunk.js",
     "static/media/studentphoto.jpg": "/idcardgenerator/static/media/studentphoto.7dfb0bd84e2b5da3d41e.jpg",
     "index.html": "/idcardgenerator/index.html",
-    "main.10ffa129.css.map": "/idcardgenerator/static/css/main.10ffa129.css.map",
+    "main.d8012067.css.map": "/idcardgenerator/static/css/main.d8012067.css.map",
     "main.f94fe0c7.js.map": "/idcardgenerator/static/js/main.f94fe0c7.js.map",
     "453.76205513.chunk.js.map": "/idcardgenerator/static/js/453.76205513.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.10ffa129.css",
+    "static/css/main.d8012067.css",
     "static/js/main.f94fe0c7.js"
   ]
 }
