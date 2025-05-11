@@ -41,4 +41,5 @@
   .signature{
     padding :20px;
     text-align : right;
+    display: block;
   }

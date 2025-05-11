@@ -1,6 +1,6 @@
 import './style.css';
 import orchidlogo from'./orchidlogo.jpg';
-import studentphoto from'./orchidlogo.jpg';
+import studentphoto from'./studentphoto.jpg';
 
 function App() {  
   return (
