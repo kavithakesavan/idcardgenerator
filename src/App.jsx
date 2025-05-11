@@ -40,7 +40,7 @@ function App() {
   </div>
   
 </div>
-    <span class="signature">Principal</span>
+    <span class="signature">Principal Sign</span>
 
 </>
 
